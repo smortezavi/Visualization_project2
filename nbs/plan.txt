@@ -1,0 +1,18 @@
+[First Visualization] -- Time Series (All)
+
+Positive Correlation with DOW and Bitcoin
+Negative Correlation with Gold and Bitcoin
+Uncorrelated with the EURO
+
+Flight to Safty -- Market crashes and everyone goes to gold
+Brexit and Grexit -- Cause the EURO to stagnate
+
+[Second Visualization] -- Time Series (DOW and Bitcoin)
+
+[Third Visualization] -- Time Series (Bitcoin and EURO)
+
+[Fourth Visualization] -- HeatMap (Volatility of All Markets)
+
+[Fifth Vizualization] -- HeatMap (Correlation)
+
+(More)
